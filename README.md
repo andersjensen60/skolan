@@ -2,6 +2,9 @@ Skolan
 
 Ett testprojekt för att skapa övningsuppgifter i olika ämnen.
 
+OBS! Alla bilder som används är 'lånade' från Internet och
+används endast under utveckling.
+
 Todo:
 1. Skapa API för användarhantering
 2. Skapa konton för föräldrar så de kan lägga till sina barn.
@@ -17,6 +20,9 @@ ___________________________________________________________________________
 School
 
 A test project to create exercises in different subjects.
+
+NOTE! All images used are 'borrowed' from the Internet and
+used only during development.
 
 Todo:
 1. Create API user management
